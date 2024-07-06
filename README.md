@@ -1,4 +1,7 @@
-# -Telomerase-Algorithm
+![llm](https://github.com/ArkS0001/Telomerase-Algorithm/assets/113760964/d3723947-0af5-41a2-9ee2-6fc911853be7)
+
+# ![llm](https://github.com/ArkS0001/Telomerase-Algorithm/assets/113760964/1bbfcde0-48d1-401d-a4e0-8e40af63acac)
+-Telomerase-Algorithm
 TTAGGG
 
 
