@@ -3,6 +3,11 @@
 # Telomerase Algorithm
 TTAGGG
 
+![2c76f65f-990c-43fc-ba99-c8dbf2bc3075](https://github.com/user-attachments/assets/e537f55b-5e71-4214-9278-01507c2f47ec)
+
+![Untitled](https://github.com/user-attachments/assets/c72ab61b-71c6-4b0d-a7e0-c7bf2d85d764)
+
+
 
 ![images](https://github.com/ArkS0001/-Telomerase-Algorithm/assets/113760964/7b379927-e6e5-40e3-9bc1-66eb74b61cef)
 ![Extension--anime-3414](https://github.com/ArkS0001/-Telomerase-Algorithm/assets/113760964/856c8bcb-a77b-4edc-8375-9211c55764c7)
